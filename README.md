@@ -1,4 +1,11 @@
-# **minishell**
+# minishell
+### <i>As beautiful as a shell</i>
+
+* The objective of this project is for you to create a simple shell.
+* Yes, your little bash or zsh. You will learn a lot about processes and file descriptors.
+
+<br><br>
+
 **Created by [jkong](https://profile.intra.42.fr/users/jkong) and [yongmkim](https://profile.intra.42.fr/users/yongmkim)**
 
 ## 0. General
